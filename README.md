@@ -21,3 +21,4 @@ you can see the product:[中文字符](https://github.com/xiaohuoni/slash-with-C
 "e:/0601/slash-with-Chinese/lib/englishCharacters/node"
 ```
 
+you can run `node \slash-with-Chinese\lib\englishCharacters\node\index.js` and `node \slash-with-Chinese\lib\中文字符\node\index.js`
